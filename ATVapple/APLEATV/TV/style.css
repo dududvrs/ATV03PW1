@@ -1,0 +1,28 @@
+body{
+    background-color: black;
+}
+.box {
+    border: 1px solid rgb(248, 248, 248);
+    padding: 4px;
+    margin: 16px 10px 20px 30px;
+}
+.box{
+    font-size: 50px;
+    font-weight: bold;
+    color: black;
+}
+.nav{
+    font-size: 8pt;
+}
+nav a{
+    text-decoration: none;
+    color: aliceblue;
+    
+}
+
+nav a:hover {
+    color: rgb(171, 51, 226);
+}
+.container img{
+    max-width: 8px;
+}
